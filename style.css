@@ -1,0 +1,52 @@
+.banner {
+  background: url("/img/wallpaperflare.com_wallpaper.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 50%;
+  padding-bottom: 50px;
+  color: #fff;
+}
+
+body {
+  background-color: black;
+  font-family: cursive;
+}
+
+h1 {
+  color: aliceblue;
+  font-family: cursive;
+  padding-bottom: 20px;
+}
+h2 {
+  color: aliceblue;
+  font-family: cursive;
+}
+
+#lineup {
+  padding-top: 200px;
+}
+
+.navbar {
+  opacity: 70%;
+}
+
+.ticket {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.ticket h1 {
+  padding-bottom: 20px;
+}
+
+#partners {
+  padding-bottom: 30px;
+}
+
+#form {
+  padding-top: 80px;
+  color: aliceblue;
+}
+
+.table {
+  padding-top: 90px;
+}
